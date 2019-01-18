@@ -1,0 +1,14 @@
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\bin\Debug\Samba.MessagingServer.WindowsService.exe.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\bin\Debug\Samba.MessagingServer.WindowsService.exe
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\bin\Debug\Samba.MessagingServer.WindowsService.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.csprojAssemblyReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.MessagingServer.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.ProjectInstaller.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.csproj.GenerateResource.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.csproj.CopyComplete
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.exe
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServer.WindowsService\obj\x86\Debug\Samba.MessagingServer.WindowsService.pdb

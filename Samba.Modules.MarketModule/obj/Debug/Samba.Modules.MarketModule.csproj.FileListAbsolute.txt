@@ -1,0 +1,2 @@
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.MarketModule\obj\Debug\Samba.Modules.MarketModule.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.MarketModule\obj\Debug\Samba.Modules.MarketModule_MarkupCompile.cache

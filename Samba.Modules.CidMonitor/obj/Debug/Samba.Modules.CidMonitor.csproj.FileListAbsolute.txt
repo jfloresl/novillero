@@ -1,0 +1,206 @@
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.ResolveComReference.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.FrmMain.resources
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Modules.CidMonitor.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Modules.CidMonitor.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\AxInterop.cidv5callerid.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Interop.cidv5callerid.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\PropertyTools.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Persistance.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Services.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Services.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\EntityFramework.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Stateless.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentValidation.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Fluentscript.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\stdole.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentMigrator.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Persistance.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.dll.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Services.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Services.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\EntityFramework.xml
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Stateless.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Fluentscript.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csprojAssemblyReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.ResolveComReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.FrmMain.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.GenerateResource.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CopyComplete
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Modules.CidMonitor.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Modules.CidMonitor.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\AxInterop.cidv5callerid.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Interop.cidv5callerid.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\PropertyTools.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Persistance.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Services.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Services.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\EntityFramework.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Stateless.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentValidation.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Fluentscript.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\stdole.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentMigrator.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Persistance.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.dll.config
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Services.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Services.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\EntityFramework.xml
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Stateless.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Fluentscript.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.ResolveComReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.FrmMain.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CopyComplete
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Modules.CidMonitor.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Modules.CidMonitor.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\AxInterop.cidv5callerid.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Interop.cidv5callerid.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\PropertyTools.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Persistance.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Services.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Services.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\EntityFramework.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Stateless.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentValidation.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Fluentscript.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\stdole.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\FluentMigrator.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Persistance.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Common.dll.config
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Presentation.Services.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Samba.Services.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\EntityFramework.xml
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Stateless.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\Fluentscript.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.ResolveComReference.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.FrmMain.resources
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.csproj.CopyComplete
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.CidMonitor\obj\Debug\Samba.Modules.CidMonitor.pdb

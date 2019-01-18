@@ -1,0 +1,38 @@
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.lref
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\Themes\Generic.baml
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.g.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.Properties.Resources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.GenerateResource.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.lref
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\Themes\Generic.baml
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.g.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.Properties.Resources.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.lref
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\Themes\Generic.baml
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.g.resources
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.Properties.Resources.resources
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.pdb

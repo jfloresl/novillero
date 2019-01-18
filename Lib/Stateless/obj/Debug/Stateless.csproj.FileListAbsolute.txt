@@ -1,0 +1,22 @@
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\bin\Debug\Stateless.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\bin\Debug\Stateless.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.ParameterConversionResources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateConfigurationResources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateMachineResources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateRepresentationResources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csproj.GenerateResource.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\bin\Debug\Stateless.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\bin\Debug\Stateless.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.ParameterConversionResources.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateConfigurationResources.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateMachineResources.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateRepresentationResources.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.pdb

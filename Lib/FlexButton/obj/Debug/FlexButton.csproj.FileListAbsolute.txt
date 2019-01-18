@@ -1,0 +1,45 @@
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csprojAssemblyReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\Generic.baml
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.lref
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButton.baml
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButtonStyles.baml
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.g.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.Properties.Resources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.GenerateResource.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\Generic.baml
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.lref
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButton.baml
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButtonStyles.baml
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.g.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.Properties.Resources.resources
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.pdb
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\Generic.baml
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.lref
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButton.baml
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButtonStyles.baml
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.g.resources
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.Properties.Resources.resources
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.GenerateResource.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.dll
+C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.pdb

@@ -1,0 +1,17 @@
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.MessagingServerServiceTool.exe.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.MessagingServerServiceTool.exe
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.MessagingServerServiceTool.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.MessagingServer.WindowsService.exe
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.MessagingServer.WindowsService.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\bin\Debug\Samba.MessagingServer.WindowsService.exe.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.csprojAssemblyReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.FrmMain.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.Properties.Resources.resources
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.csproj.GenerateResource.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.csproj.CopyComplete
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.exe
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.MessagingServerServiceTool\obj\x86\Debug\Samba.MessagingServerServiceTool.pdb

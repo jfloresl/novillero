@@ -1,0 +1,21 @@
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\novillero-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csprojAssemblyReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.pdb

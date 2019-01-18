@@ -1,0 +1,96 @@
+C:\Users\humano\Desktop\novillero-master\Samba.Services\obj\Debug\Samba.Services.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\novillero-master\Samba.Services\obj\Debug\Samba.Services.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Services.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Services.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Fluentscript.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Persistance.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\EntityFramework.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\FluentMigrator.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Fluentscript.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Persistance.pdb
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\EntityFramework.xml
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.csprojAssemblyReference.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.csproj.CoreCompileInputs.cache
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.csproj.CopyComplete
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.dll
+C:\Users\humano\Downloads\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Services.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Services.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Fluentscript.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Persistance.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\EntityFramework.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\FluentMigrator.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Fluentscript.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\Samba.Persistance.pdb
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\EntityFramework.xml
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.csprojAssemblyReference.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.csproj.CoreCompileInputs.cache
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.csproj.CopyComplete
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.dll
+C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Services\obj\Debug\Samba.Services.pdb
