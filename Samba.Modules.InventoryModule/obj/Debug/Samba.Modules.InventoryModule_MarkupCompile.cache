@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.InventoryModule\obj\Debug\
+C:\Users\humano\Documents\novillero\Samba.Modules.InventoryModule\obj\Debug\
 Samba.Modules.InventoryModule
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 9497740359
 
 28-1012825739
-25-346982991
+25579849660
 InventoryItemView.xaml;PeriodicConsumptionView.xaml;RecipeView.xaml;WarehouseInventoryView.xaml;TransactionDocumentTypeView.xaml;TransactionTypeView.xaml;TransactionDocumentView.xaml;WarehouseTypeView.xaml;WarehouseView.xaml;
 
 False

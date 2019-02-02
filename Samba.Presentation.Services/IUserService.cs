@@ -11,6 +11,7 @@ namespace Samba.Presentation.Services
         IEnumerable<Department> PermittedDepartments { get; }
         bool ContainsUser(int userId);
         bool IsDefaultUserConfigured { get; }
+        //login
         User LoginUser(string pinValue);
         void LogoutUser(bool resetCache = true);
         bool IsUserPermittedFor(string permissionName);

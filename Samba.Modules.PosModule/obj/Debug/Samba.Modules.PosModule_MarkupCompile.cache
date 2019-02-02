@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.PosModule\obj\Debug\
+C:\Users\humano\Documents\novillero\Samba.Modules.PosModule\obj\Debug\
 Samba.Modules.PosModule
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 10-800176733
 
 29750144265
-26-169817049
+26-45243515
 TicketTypeListView.xaml;TicketEntityListView.xaml;PosView.xaml;TicketInfoView.xaml;TicketListView.xaml;TicketTagListView.xaml;TicketTotalsView.xaml;TicketView.xaml;TicketOrdersView.xaml;MenuItemSelectorView.xaml;
 
 False

@@ -71,22 +71,28 @@
                          CommandParameter="8" Margin="2">8</FxButton:FlexButton>
             <FxButton:FlexButton Grid.Column="2" Grid.Row="2" Command="{Binding TypeValueCommand}"
                          CommandParameter="9" Margin="2">9</FxButton:FlexButton>
+            <!--<FxButton:FlexButton Grid.Column="0" Grid.Row="3" Command="{Binding TypeValueCommand}"
+                         CommandParameter="{Binding DecimalSeparator}" Margin="2" Content="{Binding DecimalSeparator}"/>-->
+
             <FxButton:FlexButton Grid.Column="0" Grid.Row="3" Command="{Binding TypeValueCommand}"
-                         CommandParameter="{Binding DecimalSeparator}" Margin="2" Content="{Binding DecimalSeparator}"/>
+                         CommandParameter="000" Margin="2">000</FxButton:FlexButton>
+            
             <FxButton:FlexButton Grid.Column="1" Grid.Row="3" Command="{Binding TypeValueCommand}"
                          CommandParameter="0" Margin="2">0</FxButton:FlexButton>
             <FxButton:FlexButton Grid.Column="2" Grid.Row="3" Command="{Binding SetValueCommand}"
-                         CommandParameter="" Margin="2" ButtonColor="Black">C</FxButton:FlexButton>
+                         CommandParameter="" Margin="2" ButtonColor="Black">borrar</FxButton:FlexButton>
         </Grid>
-        <UniformGrid Grid.Column="2" Rows="6">
+        <UniformGrid Grid.Column="2" Rows="3">
             <FxButton:FlexButton Margin="2" ButtonColor="Purple" Command="{Binding TenderAllCommand}"
                          Content="{Binding TenderAllCommand.Caption}" />
+ <!--
             <FxButton:FlexButton Margin="2" ButtonColor="RoyalBlue" Command="{Binding DivideValueCommand}"
                          CommandParameter="2" Foreground="WhiteSmoke">1/2</FxButton:FlexButton>
             <FxButton:FlexButton Margin="2" ButtonColor="RoyalBlue" Command="{Binding DivideValueCommand}"
                          CommandParameter="3" Foreground="WhiteSmoke">1/3</FxButton:FlexButton>
             <FxButton:FlexButton Margin="2" ButtonColor="RoyalBlue" Command="{Binding DivideValueCommand}"
                          CommandParameter="0" Foreground="WhiteSmoke">1/n</FxButton:FlexButton>
+-->
             <FxButton:FlexButton Margin="2" ButtonColor="Purple" Command="{Binding ChangeBalanceModeCommand}"
                          Content="{Binding BalanceModeCaption}" />
             <FxButton:FlexButton Command="{Binding SetValueCommand}" CommandParameter="{Binding LastTenderedAmount}"

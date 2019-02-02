@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.EntityModule\obj\Debug\
+C:\Users\humano\Documents\novillero\Samba.Modules.EntityModule\obj\Debug\
 Samba.Modules.EntityModule
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 10951649993
 
 41-364250132
-29-248641039
+29-190320382
 EntityCustomDataEditor.xaml;EntityDashboardView.xaml;EntityEditorView.xaml;BatchEntityEditorView.xaml;EntityScreenView.xaml;EntitySearchView.xaml;EntitySelectorView.xaml;EntitySwitcherView.xaml;EntityTypeView.xaml;EntityView.xaml;
 
 False

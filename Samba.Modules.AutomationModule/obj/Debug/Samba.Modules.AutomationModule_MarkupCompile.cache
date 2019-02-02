@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.AutomationModule\obj\Debug\
+C:\Users\humano\Documents\novillero\Samba.Modules.AutomationModule\obj\Debug\
 Samba.Modules.AutomationModule
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 5-764964754
 
 24918837616
-29-652117593
+291756831307
 AutomationCommandView.xaml;RuleActionView.xaml;ScriptView.xaml;TriggerView.xaml;RuleView.xaml;
 
 False

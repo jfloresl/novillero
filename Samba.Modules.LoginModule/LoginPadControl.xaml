@@ -152,7 +152,7 @@
             <Setter Property="OpacityMask" Value="{x:Null}" />
         </Style>
     </UserControl.Resources>
-    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Focusable="False">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Focusable="False" Width="650">
         <Grid.RowDefinitions>
             <RowDefinition Height="auto" />
             <RowDefinition Height="*" />
@@ -161,35 +161,104 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="1*" />
+
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="2*" />
         </Grid.ColumnDefinitions>
-        <TextBox Text="{LocText EnterPin}" Grid.ColumnSpan="3"
-             FontWeight="Bold" FontSize="32" Margin="5" Name="PinTextBox" IsReadOnly="True" />
-        <Button Content="1" Grid.Row="1" Grid.Column="0" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+
+       
+
+
+        <TextBox Text="{LocText EnterPin}" Grid.ColumnSpan="10"
+             FontWeight="Bold" FontSize="32" Margin="3,5" Name="PinTextBox" IsReadOnly="True" Grid.Column="2" />
+        <Button Content="1" Grid.Row="1" Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_1" />
-        <Button Content="2" Grid.Row="1" Grid.Column="1" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="2" Grid.Row="1" Grid.Column="3" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_2" />
-        <Button Content="3" Grid.Row="1" Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="3" Grid.Row="1" Grid.Column="4" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_3" />
-        <Button Content="4" Grid.Row="2" Grid.Column="0" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="4" Grid.Row="2" Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_4" />
-        <Button Content="5" Grid.Row="2" Grid.Column="1" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="5" Grid.Row="2" Grid.Column="3" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_5" />
-        <Button Content="6" Grid.Row="2" Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="6" Grid.Row="2" Grid.Column="4" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_6" />
-        <Button Content="7" Grid.Row="3" Grid.Column="0" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="7" Grid.Row="3" Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_7" />
-        <Button Content="8" Grid.Row="3" Grid.Column="1" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="8" Grid.Row="3" Grid.Column="3" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_8" />
-        <Button Content="9" Grid.Row="3" Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+        <Button Content="9" Grid.Row="3" Grid.Column="4" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_9" />
         <Button Content="{LocText Clear}" Grid.Row="4"
-             Grid.Column="0" Margin="3" Style="{DynamicResource GreenButtonStyle}" Click="Button_Click_11" />
-        <Button Content="0" Grid.Row="4" Grid.Column="1" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Grid.Column="2" Margin="3" Style="{DynamicResource GreenButtonStyle}" Click="Button_Click_11" />
+        <Button Content="0" Grid.Row="4" Grid.Column="3" Margin="3" Style="{DynamicResource GreenButtonStyle}"
              Click="Button_Click_10" />
         <Button Content="{LocText Login}" Grid.Row="4" Focusable="False"
-             Grid.Column="2" Margin="3" Style="{DynamicResource SubmitButtonStyle}" Click="Button_Click" />
+             Grid.Column="4" Margin="3,3,0,3" Style="{DynamicResource SubmitButtonStyle}" Click="Button_Click" />
+
+        <!-- botones alfanumericos-->
+        <Button Content="A" Grid.Row="1" Grid.Column="5" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_12" />
+        <Button Content="B" Grid.Row="1" Grid.Column="6" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_13" />
+        <Button Content="C" Grid.Row="1" Grid.Column="7" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_14" />
+        <Button Content="D" Grid.Row="1" Grid.Column="8" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_15" />
+        <Button Content="E" Grid.Row="1" Grid.Column="9" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_16" />
+        <Button Content="F" Grid.Row="1" Grid.Column="10" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_17" />
+        <Button Content="G" Grid.Row="1" Grid.Column="11" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_18" />
+        <Button Content="H" Grid.Row="2" Grid.Column="5" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_19" />
+        <Button Content="I" Grid.Row="2" Grid.Column="6" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_20" />
+        <Button Content="J" Grid.Row="2" Grid.Column="7" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_21" />
+        <Button Content="K" Grid.Row="2" Grid.Column="8" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_22" />
+        <Button Content="L" Grid.Row="2" Grid.Column="9" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_23" />
+        <Button Content="M" Grid.Row="2" Grid.Column="10" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_24" />
+        <Button Content="N" Grid.Row="2" Grid.Column="11" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_25" />
+        <Button Content="O" Grid.Row="3" Grid.Column="5" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_26" />
+        <Button Content="P" Grid.Row="3" Grid.Column="6" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_27" />
+        <Button Content="Q" Grid.Row="3" Grid.Column="7" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_28" />
+        <Button Content="R" Grid.Row="3" Grid.Column="8" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_29" />
+        <Button Content="S" Grid.Row="3" Grid.Column="9" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_30" />
+        <Button Content="T" Grid.Row="3" Grid.Column="10" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_31" />
+        <Button Content="U" Grid.Row="3" Grid.Column="11" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_32" />
+        <Button Content="V" Grid.Row="4" Grid.Column="5" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_33" />
+        <Button Content="W" Grid.Row="4" Grid.Column="6" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_34" />
+        <Button Content="X" Grid.Row="4" Grid.Column="7" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_35" />
+        <Button Content="Y" Grid.Row="4" Grid.Column="8" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_36" />
+        <Button Content="Z" Grid.Row="4" Grid.Column="9" Margin="3" Style="{DynamicResource GreenButtonStyle}"
+             Click="Button_Click_37" />
+
     </Grid>
 </UserControl>

@@ -82,3 +82,44 @@ C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Domain\obj\Debu
 C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Domain\obj\Debug\Samba.Domain.csproj.CopyComplete
 C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Domain\obj\Debug\Samba.Domain.dll
 C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Domain\obj\Debug\Samba.Domain.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Fluentscript.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Stateless.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\EntityFramework.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Fluentscript.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Stateless.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\EntityFramework.xml
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\obj\Debug\Samba.Domain.csprojAssemblyReference.cache
+C:\Users\humano\Documents\novillero\Samba.Domain\obj\Debug\Samba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\humano\Documents\novillero\Samba.Domain\obj\Debug\Samba.Domain.csproj.CopyComplete
+C:\Users\humano\Documents\novillero\Samba.Domain\obj\Debug\Samba.Domain.dll
+C:\Users\humano\Documents\novillero\Samba.Domain\obj\Debug\Samba.Domain.pdb

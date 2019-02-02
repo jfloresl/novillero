@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\humano\Desktop\Trabajo\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Modules.TicketModule\obj\Debug\
+C:\Users\humano\Documents\novillero\Samba.Modules.TicketModule\obj\Debug\
 Samba.Modules.TicketModule
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 91522580713
 
 52-1272843086
-291884287548
+29-2093570765
 CalculationSelectorView.xaml;ChangePaymentTypeView.xaml;OrderTagGroupView.xaml;CalculationTypeView.xaml;PaymentTypeView.xaml;TicketTagGroupView.xaml;TicketTypeView.xaml;TicketExplorerView.xaml;Widgets\TicketLister\TicketListerControl.xaml;
 
 False

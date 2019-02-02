@@ -58,7 +58,7 @@ namespace Samba.Presentation.Services.Implementations.UserModule
         {
             return userId > 0 ? Users.Single(x => x.Id == userId).Name : "-";
         }
-
+        //login
         public User LoginUser(string pinValue)
         {
             Debug.Assert(_applicationState.CurrentLoggedInUser == User.Nobody);

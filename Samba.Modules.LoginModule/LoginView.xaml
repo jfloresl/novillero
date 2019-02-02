@@ -15,16 +15,10 @@ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         <Image Grid.Column="0" Stretch="None" Source="{Binding LogoPath}" VerticalAlignment="Center"
              HorizontalAlignment="Center">
         </Image>
-        <TextBlock Grid.Row="1" Grid.ColumnSpan="2" FontSize="30" FontWeight="Black" Foreground="WhiteSmoke" Text="{Binding AppLabel}"
-             Margin="5,0,0,0">
-            <TextBlock.Effect>
-                <DropShadowEffect Opacity="0.3" ShadowDepth="1" BlurRadius="3">
-                </DropShadowEffect>
-            </TextBlock.Effect>
-        </TextBlock>
+
         <StackPanel Grid.Column="1" Grid.RowSpan="2" VerticalAlignment="Center">
-            <Border Grid.Column="1" Width="350" Height="400" CornerRadius="10" BorderThickness="2"
-                 BorderBrush="LightSteelBlue">
+            <Border Grid.Column="1" Height="400" CornerRadius="10" BorderThickness="2"
+                 BorderBrush="LightSteelBlue" Margin="-171,0,10,0">
                 <Login1:LoginPadControl x:Name="PadControl" Margin="15" PinSubmitted="LoginPadControl_PinSubmitted" />
             </Border>
             <TextBlock FontSize="14" HorizontalAlignment="Center" Text="{Binding AdminPasswordHint}"
@@ -33,7 +27,7 @@ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                  Margin="5" Click="Button_Click">
                 <DockPanel>
                     <Image Source="Images/LanShutDown.icon.gif" Stretch="None"/>
-                    <Label Content="{LocText Exit}"/>                    
+                    <Label Content="{LocText Exit}"/>
                 </DockPanel>
             </Button>
         </StackPanel>

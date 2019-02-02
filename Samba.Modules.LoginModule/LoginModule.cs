@@ -8,19 +8,21 @@ using Samba.Presentation.Common;
 using Samba.Presentation.Services;
 using Samba.Presentation.Services.Common;
 
+
 namespace Samba.Modules.LoginModule
 {
     [ModuleExport(typeof(LoginModule))]
     public class LoginModule : VisibleModuleBase
     {
         readonly IRegionManager _regionManager;
-        private readonly LoginView _loginView;
+        private readonly LoginView _loginView; 
         private readonly IUserService _userService;
 
         [ImportingConstructor]
         public LoginModule(IRegionManager regionManager, LoginView loginView, IUserService userService)
             : base(regionManager, AppScreens.LoginScreen)
         {
+
             _regionManager = regionManager;
             _loginView = loginView;
             _userService = userService;

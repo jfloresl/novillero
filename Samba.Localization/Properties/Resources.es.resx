@@ -335,7 +335,7 @@
     <value>Total descuentos</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Búscar</value>
+    <value>Buscar</value>
   </data>
   <data name="AveragePrice_ab" xml:space="preserve">
     <value>Precio Prom.</value>
@@ -3119,7 +3119,10 @@ No puede terminar Periodo de trabajo mientras haya comandas abiertos</value>
     <value>Clasificación por Orden</value>
   </data>
   <data name="CantDeletePastEndOfDayRecords" xml:space="preserve">
-    <value>No se puede eliminar más allá del cierre de caja</value>
+    <value>555No se puede eliminar más allá del cierre de caja</value>
+  </data>
+	<data name="CantDeletePastEndOfDayRecords2" xml:space="preserve">
+    <value>No se puede</value>
   </data>
   <data name="LoopValues" xml:space="preserve">
     <value>Valores de bucle</value>

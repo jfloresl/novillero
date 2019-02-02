@@ -18,6 +18,8 @@ namespace Samba.Modules.EntityModule
         [ImportingConstructor]
         public EntitySearchView(EntitySearchViewModel viewModel)
         {
+           // MessageBox.Show("12");
+
             DataContext = viewModel;
             ViewModel = viewModel;
             viewModel.SelectedEntityTypeChanged += viewModel_SelectedAccountTypeChanged;
@@ -26,6 +28,7 @@ namespace Samba.Modules.EntityModule
 
         void viewModel_SelectedAccountTypeChanged(object sender, System.EventArgs e)
         {
+
             var gridView = MainListView.View as GridView;
             if (ViewModel != null && gridView != null)
             {
@@ -49,15 +52,20 @@ namespace Samba.Modules.EntityModule
 
         private void SearchStringPreviewKeyDown(object sender, KeyEventArgs e)
         {
+
+
             if (e.Key == Key.Enter)
             {
+
                 e.Handled = true;
                 ViewModel.SelectFullMatch();
             }
             else if (e.Key == Key.Down)
             {
+
                 if (ViewModel.FoundEntities.Count > 0)
                 {
+
                     e.Handled = true;
                     MainListView.Focus();
                 }
@@ -66,22 +74,27 @@ namespace Samba.Modules.EntityModule
 
         private void FlexButtonClick(object sender, RoutedEventArgs e)
         {
+
             Reset();
         }
 
         private void Reset()
         {
+
             ViewModel.ResetSearch();
             SearchString.BackgroundFocus();
         }
 
         private void SearchStringLoaded(object sender, RoutedEventArgs e)
         {
+
+
             SearchString.BackgroundFocus();
         }
 
         private void UserControl_Loaded(object sender, RoutedEventArgs e)
         {
+
             if (ViewModel.IsKeyboardVisible)
             {
                 var keyboardHeight = Properties.Settings.Default.KeyboardHeight;
@@ -98,6 +111,7 @@ namespace Samba.Modules.EntityModule
 
         private void HideKeyboard()
         {
+
             KeyboardRow.Height = new GridLength(0, GridUnitType.Auto);
             KeyboardRow.MinHeight = 0;
             Keyboard.Visibility = Visibility.Collapsed;
@@ -106,6 +120,7 @@ namespace Samba.Modules.EntityModule
 
         private void UserControl_Unloaded(object sender, RoutedEventArgs e)
         {
+
             if (ViewModel.IsKeyboardVisible)
             {
                 Properties.Settings.Default.KeyboardHeight = KeyboardRow.Height.Value;
@@ -116,8 +131,11 @@ namespace Samba.Modules.EntityModule
 
         private void GridSplitter_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
+
             KeyboardRow.Height = new GridLength(1, GridUnitType.Star);
             ContentRow.Height = new GridLength(1, GridUnitType.Star);
         }
+
+
     }
 }

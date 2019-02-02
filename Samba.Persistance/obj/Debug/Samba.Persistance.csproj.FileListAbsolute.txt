@@ -82,3 +82,44 @@ C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Persistance\obj
 C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Persistance\obj\Debug\Samba.Persistance.csproj.CopyComplete
 C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Persistance\obj\Debug\Samba.Persistance.dll
 C:\Users\humano\Desktop\RESPALDO TRANAJO\SambaPOS-3-master\Samba.Persistance\obj\Debug\Samba.Persistance.pdb
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Persistance.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Persistance.pdb
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Domain.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Infrastructure.Data.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Infrastructure.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Localization.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\FluentMigrator.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Domain.pdb
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Infrastructure.Data.pdb
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\Samba.Localization.pdb
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\ar\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\cs\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\da\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\de\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\el\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\es\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\fa\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\fr\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\he\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\hr\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\hu\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\id\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\it\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\nl\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\pt-BR\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\ru-RU\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\sq\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\tk-TM\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\tr\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\bin\Debug\zh-CN\Samba.Localization.resources.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\obj\Debug\Samba.Persistance.csprojAssemblyReference.cache
+C:\Users\humano\Documents\novillero\Samba.Persistance\obj\Debug\Samba.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\humano\Documents\novillero\Samba.Persistance\obj\Debug\Samba.Persistance.csproj.CopyComplete
+C:\Users\humano\Documents\novillero\Samba.Persistance\obj\Debug\Samba.Persistance.dll
+C:\Users\humano\Documents\novillero\Samba.Persistance\obj\Debug\Samba.Persistance.pdb

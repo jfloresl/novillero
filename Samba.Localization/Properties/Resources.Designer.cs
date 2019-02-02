@@ -1277,6 +1277,15 @@ namespace Samba.Localization.Properties {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Can&apos;.
+        /// </summary>
+        public static string CantDeletePastEndOfDayRecords2 {
+            get {
+                return ResourceManager.GetString("CantDeletePastEndOfDayRecords2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Can&apos;t Save.
         /// </summary>
         public static string CantSave {
@@ -5727,7 +5736,7 @@ namespace Samba.Localization.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Permissions.
+        ///   Busca una cadena traducida similar a Permisos.
         /// </summary>
         public static string Permissions {
             get {
@@ -5754,7 +5763,7 @@ namespace Samba.Localization.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Pin Code.
+        ///   Busca una cadena traducida similar a Contraseña.
         /// </summary>
         public static string PinCode {
             get {
@@ -6745,15 +6754,13 @@ namespace Samba.Localization.Properties {
                 return ResourceManager.GetString("SalesIncome", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   Busca una cadena traducida similar a Samba Market.
         /// </summary>
-
-            
         public static string SambaMarket {
             get {
-                return ResourceManager.GetString("Market", resourceCulture);
+                return ResourceManager.GetString("SambaMarket", resourceCulture);
             }
         }
         
@@ -6762,7 +6769,7 @@ namespace Samba.Localization.Properties {
         /// </summary>
         public static string SambaNetwork {
             get {
-                return ResourceManager.GetString("Network", resourceCulture);
+                return ResourceManager.GetString("SambaNetwork", resourceCulture);
             }
         }
         
@@ -6771,7 +6778,7 @@ namespace Samba.Localization.Properties {
         /// </summary>
         public static string SambaPOSReporter {
             get {
-                return ResourceManager.GetString("Reporter", resourceCulture);
+                return ResourceManager.GetString("SambaPOSReporter", resourceCulture);
             }
         }
         
@@ -6780,7 +6787,7 @@ namespace Samba.Localization.Properties {
         /// </summary>
         public static string SambaPosWebsite {
             get {
-                return ResourceManager.GetString("Website", resourceCulture);
+                return ResourceManager.GetString("SambaPosWebsite", resourceCulture);
             }
         }
         
@@ -9213,7 +9220,7 @@ namespace Samba.Localization.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a User Role.
+        ///   Busca una cadena traducida similar a Rol de usuario.
         /// </summary>
         public static string UserRole {
             get {

@@ -28,7 +28,7 @@
             </Grid.ColumnDefinitions>
             <TextBlock Margin="3" FontSize="30" Grid.Column="0" Text="{Binding SearchLabel}" />
             <TextBox Margin="3,3,0,3" FontSize="30" Grid.Column="1" Name="SearchString"
-                             Text="{Binding SearchString,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                             Text="{Binding SearchString,Mode=Default,UpdateSourceTrigger=PropertyChanged}"
                              PreviewKeyDown="SearchStringPreviewKeyDown" Loaded="SearchStringLoaded" />
             <FlexButton:FlexButton Grid.Column="2" Margin="0,3,3,3" Content="X" MinWidth="50" Click="FlexButtonClick" />
         </Grid>

@@ -33,13 +33,27 @@ namespace Samba.Modules.InventoryModule
             return _applicationState.CurrentWorkPeriod != null;
         }
 
-        protected override string CanDeleteItem(PeriodicConsumption model)
+        /*protected override string CanDeleteItem(PeriodicConsumption model)
         {
-            if (model.WorkPeriodId != _applicationState.CurrentWorkPeriod.Id
-                || !_applicationState.IsCurrentWorkPeriodOpen)
+            if (model.WorkPeriodId != _applicationState.CurrentWorkPeriod.Id)
+               
                 return Resources.CantDeletePastEndOfDayRecords;
+
+            if ( !_applicationState.IsCurrentWorkPeriodOpen)
+                return Resources.CantDeletePastEndOfDayRecords2;
             return base.CanDeleteItem(model);
         }
+        */
+
+
+        protected override string CanDeleteItem(PeriodicConsumption model)
+        {
+            //if (model.WorkPeriodId != _applicationState.CurrentWorkPeriod.Id || !_applicationState.IsCurrentWorkPeriodOpen)
+            //   return Resources.CantDeletePastEndOfDayRecords;
+            return base.CanDeleteItem(model);
+        }
+        
+
 
         //protected override System.Collections.Generic.IEnumerable<PeriodicConsumption> SelectItems()
         //{

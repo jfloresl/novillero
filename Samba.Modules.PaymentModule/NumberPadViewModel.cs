@@ -98,7 +98,7 @@ namespace Samba.Modules.PaymentModule
         private string[] GetPaymentScreenValues()
         {
             var result = _settingService.ProgramSettings.PaymentScreenValues;
-            if (string.IsNullOrEmpty(result)) result = "1,5,10,20,50,100";
+            if (string.IsNullOrEmpty(result)) result = "500,1000,2000,5000,10000,20000";
             return result.Split(result.Contains(";") ? ';' : ',');
         }
 

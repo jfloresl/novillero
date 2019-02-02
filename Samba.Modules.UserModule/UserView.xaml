@@ -10,7 +10,7 @@
             <TextBox HorizontalAlignment="Left" MinWidth="200" Text="{Binding Name,ValidatesOnDataErrors=True}">
             </TextBox>
             <Label Content="{LocText PinCode, Suffix=':'}" />
-            <UIControls:FilteredTextBox Name="PasswordTextBox" Type="Digits" HorizontalAlignment="Left" Text="{Binding PinCode,Mode=TwoWay}" MinWidth="100" />
+            <UIControls:FilteredTextBox Name="PasswordTextBox" Type="Letters" HorizontalAlignment="Left" Text="{Binding PinCode,Mode=TwoWay}" MinWidth="100" />
             <Label Content="{LocText UserRole, Suffix=':'}" />
             <ComboBox HorizontalAlignment="Left" MinWidth="100" ItemsSource="{Binding Roles}"
                  SelectedItem="{Binding Role}">

@@ -33,6 +33,7 @@ namespace Samba.Persistance.Data
             if (string.IsNullOrEmpty(_connectionString))
             {
                 if (LocalSettings.IsSqlce40Installed())
+
                     _connectionString = string.Format("data source={0}\\{1}.sdf", LocalSettings.DocumentPath, LocalSettings.AppName);
                 else _connectionString = GetTextFileName();
             }

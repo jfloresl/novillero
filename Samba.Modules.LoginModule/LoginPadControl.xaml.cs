@@ -117,7 +117,111 @@ namespace Samba.Modules.LoginModule
         {
             PinValue = "";
         }
-
+        //ALFANUMERICO
+        private void Button_Click_12(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("a");
+        }
+        private void Button_Click_13(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("b");
+        }
+        private void Button_Click_14(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("c");
+        }
+        private void Button_Click_15(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("d");
+        }
+        private void Button_Click_16(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("e");
+        }
+        private void Button_Click_17(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("f");
+        }
+        private void Button_Click_18(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("g");
+        }
+        private void Button_Click_19(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("h");
+        }
+        private void Button_Click_20(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("i");
+        }
+        private void Button_Click_21(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("j");
+        }
+        private void Button_Click_22(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("k");
+        }
+        private void Button_Click_23(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("l");
+        }
+        private void Button_Click_24(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("m");
+        }
+        private void Button_Click_25(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("n");
+        }
+        private void Button_Click_26(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("o");
+        }
+        private void Button_Click_27(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("p");
+        }
+        private void Button_Click_28(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("q");
+        }
+        private void Button_Click_29(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("r");
+        }
+        private void Button_Click_30(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("s");
+        }
+        private void Button_Click_31(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("t");
+        }
+        private void Button_Click_32(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("u");
+        }
+        private void Button_Click_33(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("v");
+        }
+        private void Button_Click_34(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("w");
+        }
+        private void Button_Click_35(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("x");
+        }
+        private void Button_Click_36(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("y");
+        }
+        private void Button_Click_37(object sender, RoutedEventArgs e)
+        {
+            UpdatePinValue("z");
+        }
         private void UserControl_Loaded(object sender, RoutedEventArgs e)
         {
             PinTextBox.BackgroundFocus();
